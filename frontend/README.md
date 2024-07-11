@@ -1,3 +1,7 @@
+# permission-to-pause
+
+Permission to Pause is an app promoting workplace mental health by encouraging breaks, mindful activities and wellness challenges.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
